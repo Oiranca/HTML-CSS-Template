@@ -1,7 +1,7 @@
 {
-  "name": "html-css-template",
+  "name": "Asignatura DEW",
   "version": "1.0.0",
-  "description": "Clean HTML CSS template with linting configuration",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
