@@ -1,7 +1,7 @@
 {
-  "name": "Asignatura DOR",
+  "name": "html-css-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Clean HTML CSS template with linting configuration",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
